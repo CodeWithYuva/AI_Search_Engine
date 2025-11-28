@@ -1,4 +1,3 @@
-<img width="1917" height="868" alt="image" src="https://github.com/user-attachments/assets/3c12fd1e-837d-42b1-b389-74fe3d3d39cd" /># Text Similarity Search Engine (Flask) — README
 
 ## 📌 Project Title
 
@@ -91,7 +90,7 @@ http://127.0.0.1:5000/
 
 
 ---
-#### Features ####
+# Features #
 
 ### ⭐ **3. Dataset Upload Feature**
 
@@ -130,6 +129,6 @@ With synonym expansion:
 
 “succeed” also matches “come through”
 
-# This makes the search semantic, not just keyword-based. #
+This makes the search semantic, not just keyword-based. 
 
 
